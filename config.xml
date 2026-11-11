@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+  <nombre>Mi biblioteca</nombre>
+  <ciudad>Lima</ciudad>
+  <horario>
+    <apertura>09:00</apertura>
+    <cierre>18:00</cierre>
+  </horario>
+  <contacto>
+    <correo>consulta@biblioteca.test</correo>
+    <telefono>000-000-000</telefono>
+  </contacto>
+  <reglas>
+    <regla>Devolver los libros a tiempo</regla>
+    <regla>Cuidar los ejemplares</regla>
+  </reglas>
+</biblioteca>

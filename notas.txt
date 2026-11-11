@@ -1,0 +1,18 @@
+BIBLIOTECA - NOTAS DEL PROYECTO
+
+Nombre: Mi biblioteca
+Tipo: Proyecto de práctica
+Ciudad: Lima
+
+Tareas pendientes:
+- Agregar más libros.
+- Crear una búsqueda por título.
+- Mostrar si un libro está disponible.
+- Mejorar los colores de la página.
+
+Ideas:
+La biblioteca puede tener usuarios.
+Cada préstamo debe guardar una fecha.
+Los libros pueden clasificarse por género.
+
+Estado actual: versión inicial.

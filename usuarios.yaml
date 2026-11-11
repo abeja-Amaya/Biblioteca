@@ -1,0 +1,17 @@
+biblioteca:
+  nombre: Mi biblioteca
+  ciudad: Lima
+  activa: true
+usuarios:
+  - id: 1
+    nombre: Ana
+    tipo: estudiante
+  - id: 2
+    nombre: Luis
+    tipo: visitante
+prestamo:
+  dias_maximos: 7
+  renovable: false
+categorias:
+  - novela
+  - ciencia

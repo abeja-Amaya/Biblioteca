@@ -1,0 +1,18 @@
+{
+  "biblioteca": "Mi biblioteca",
+  "ubicacion": "Lima",
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "El principito",
+      "autor": "Antoine de Saint-Exupery",
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "titulo": "La ciudad y los perros",
+      "autor": "Mario Vargas Llosa",
+      "disponible": false
+    }
+  ]
+}
